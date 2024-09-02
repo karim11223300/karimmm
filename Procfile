@@ -1,2 +1,1 @@
-websocket-client
-pyTelegramBotAPI
+gunicorn app:app
