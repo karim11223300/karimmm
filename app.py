@@ -22,7 +22,7 @@ G = '\033[1;32m'
 R = '\033[1;31m'
 id = "761058551"
 
-token = "6635344625:AAHzJNXx4JGeYPpQs2IeQ38rWlueQFCK6zQ"
+token = "7003770029:AAHlN8vKrZg_JLKvY5hjyHeofq8OoyfnnIQ"
 bot = telebot.TeleBot(token)
 
 
