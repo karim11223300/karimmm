@@ -1,7 +1,7 @@
-pip install --upgrade websocket
-pip install --upgrade requests
-pip install --upgrade gunicorn
-pip install --upgrade Flask
+websocket
+requests
+gunicorn
+Flask
 autopep8==2.0.4
 certifi==2023.11.17
 charset-normalizer==3.3.2
@@ -14,4 +14,3 @@ pyTelegramBotAPI==4.14.1
 requests==2.31.0
 rich==13.7.0
 urllib3==2.1.0
-install  --upgrade
