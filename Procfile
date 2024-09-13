@@ -1,1 +1,1 @@
-web: python3 karim.py
+web: gunicorn app:app
