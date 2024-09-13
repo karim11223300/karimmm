@@ -21,7 +21,7 @@ G = '\033[1;32m'
 L = '\033[1;31m'
 
 own_id= 761058551
-tele_bot='6635344625:AAHzJNXx4JGeYPpQs2IeQ38rWlueQFCK6zQ'
+tele_bot='6635344625:AAH4a1YAmMcykAXJHpHgukOT0_ulvygJuaA'
 ch='qwertyuioplkjhgfdsazxcvbnm'
 def create():
  global created
