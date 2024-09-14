@@ -1,7 +1,9 @@
+
 websocket
 requests
 gunicorn
-Flask
+flask
+flask_restful
 autopep8==2.0.4
 certifi==2023.11.17
 charset-normalizer==3.3.2
