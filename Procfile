@@ -1,2 +1,1 @@
-gunicorn app:app
-gunicorn kero:app
+gunicorn app:kero
