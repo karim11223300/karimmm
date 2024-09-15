@@ -1,1 +1,1 @@
-gunicorn app:kero
+web: python3 app.py & python3 flask.py
