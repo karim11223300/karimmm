@@ -1,1 +1,1 @@
-python3 app.py & python3 flask.py
+web: python3 app.py
